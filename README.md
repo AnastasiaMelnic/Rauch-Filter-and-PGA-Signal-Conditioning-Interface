@@ -1,1 +1,2 @@
 # Rauch-Filter-and-PGA-Signal-Conditioning-Interface
+Designed and prototyped an analog interface consisting of a Rauch band-pass filter and an inverting Programmable Gain Amplifier (PGA) with 4 gain steps. The system enables communication between a microcontroller and sensors by conditioning analog signals (filtering and amplification) and preparing them for digital conversion. Simulated the circuit in LTspice to optimize performance, then prototyped it on a breadboard and tested functionality using Scopy with the ADALM2000.
